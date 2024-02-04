@@ -59,7 +59,7 @@ To run the Violence Detection System locally, follow these steps:
 
 - Amine Fezzani
 - Taher Turki
-- Chedly ghorbel
+- Chedhly Ghorbel
 - Mohamed Ali Farhat
 
 
