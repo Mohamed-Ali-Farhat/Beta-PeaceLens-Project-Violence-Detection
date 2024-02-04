@@ -11,7 +11,8 @@ Welcome to our Violence Detection System! This solution is designed to analyze v
 - **Flexibility**: By utilizing OpenCV, Flask, and TensorFlow, our solution is versatile and can be easily integrated into different applications and platforms.
 
 - **Accuracy**: TensorFlow, a powerful machine learning library, enhances the accuracy of violence detection, making the system reliable and effective.
-
+##
+##
 ## Libraries Used
 
 ### 1. OpenCV
@@ -31,7 +32,9 @@ Welcome to our Violence Detection System! This solution is designed to analyze v
 [TensorFlow](https://www.tensorflow.org/) is a popular open-source machine learning framework developed by Google. It is widely used for building and training machine learning models. In our solution, TensorFlow is utilized to enhance the accuracy of violence detection by implementing machine learning algorithms.
 
 ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png)
-
+##
+##
+##
 ## Getting Started
 
 To run the Violence Detection System locally, follow these steps:
@@ -53,7 +56,9 @@ To run the Violence Detection System locally, follow these steps:
   Open your web browser and navigate to http://localhost:5000 to access the Violence Detection System.
   
 
-
+##
+##
+##
 
 
 
@@ -74,6 +79,12 @@ To run the Violence Detection System locally, follow these steps:
 - **Problem:** Faced difficulties in deploying the model, particularly in handling real-time feed data.
 - **Solution:** Implemented a comprehensive solution to address deployment issues, ensuring the smooth processing of real-time video data.
 
+
+
+
+##
+##
+
 ## Lessons Learned
 
 1. **Data Exploration is Crucial:** The initial struggle with data scarcity emphasizes the importance of thorough exploration to find a suitable dataset for training.
@@ -88,6 +99,8 @@ To run the Violence Detection System locally, follow these steps:
 
 6. **Team Resilience:** The challenges encountered during the hackathon served as a testament to the team's resilience. Overcoming setbacks and finding solutions collectively strengthened the team's bond and problem-solving skills.
 
+## Model Used
+The violence detection model in our system is based on MobileNet and LSTM (Long Short-Term Memory) architecture, commonly referred to as MobileLSTM. This architecture is particularly effective for real-time video analysis, providing both accuracy and efficiency.
 ## Getting Started
 
 To run the Violence Detection System locally, follow these steps:
